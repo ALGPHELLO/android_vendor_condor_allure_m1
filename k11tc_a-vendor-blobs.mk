@@ -64,8 +64,12 @@ PRODUCT_COPY_FILES += \
     vendor/vernee/k11tc_a/proprietary/lib64/libaed.so:system/lib64/libaed.so \
     vendor/vernee/k11tc_a/proprietary/lib/libccci_util.so:system/lib/libccci_util.so \
     vendor/vernee/k11tc_a/proprietary/lib64/libccci_util.so:system/lib64/libccci_util.so \
+    vendor/vernee/k11tc_a/proprietary/lib/libmhalImageCodec.so:system/lib/libmhalImageCodec.so \
+    vendor/vernee/k11tc_a/proprietary/lib64/libmhalImageCodec.so:system/lib64/libmhalImageCodec.so \
     vendor/vernee/k11tc_a/proprietary/lib/libmrdump.so:system/lib/libmrdump.so \
     vendor/vernee/k11tc_a/proprietary/lib64/libmrdump.so:system/lib64/libmrdump.so \
+    vendor/vernee/k11tc_a/proprietary/lib/libONSemiAR1337PdafLibrary.so:system/lib/libONSemiAR1337PdafLibrary.so \
+    vendor/vernee/k11tc_a/proprietary/lib64/libONSemiAR1337PdafLibrary.so:system/lib64/libONSemiAR1337PdafLibrary.so \
     vendor/vernee/k11tc_a/proprietary/lib64/libterservice.so:system/lib64/libterservice.so \
     vendor/vernee/k11tc_a/proprietary/etc/ecc_list.xml:system/etc/ecc_list.xml \
     vendor/vernee/k11tc_a/proprietary/etc/firmware/dsp_1_ulwctg_n.bin:system/etc/firmware/dsp_1_ulwctg_n.bin \
@@ -196,6 +200,8 @@ PRODUCT_COPY_FILES += \
     vendor/vernee/k11tc_a/proprietary/lib64/libcam_hwutils.so:system/lib64/libcam_hwutils.so \
     vendor/vernee/k11tc_a/proprietary/lib/libcam.iopipe.so:system/lib/libcam.iopipe.so \
     vendor/vernee/k11tc_a/proprietary/lib64/libcam.iopipe.so:system/lib64/libcam.iopipe.so \
+    vendor/vernee/k11tc_a/proprietary/lib/libcam.jni.lomohaljni.so:system/lib/libcam.jni.lomohaljni.so \
+    vendor/vernee/k11tc_a/proprietary/lib64/libcam.jni.lomohaljni.so:system/lib64/libcam.jni.lomohaljni.so \
     vendor/vernee/k11tc_a/proprietary/lib/libcam.metadataprovider.so:system/lib/libcam.metadataprovider.so \
     vendor/vernee/k11tc_a/proprietary/lib64/libcam.metadataprovider.so:system/lib64/libcam.metadataprovider.so \
     vendor/vernee/k11tc_a/proprietary/lib/libcam.metadata.so:system/lib/libcam.metadata.so \
